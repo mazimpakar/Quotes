@@ -29,9 +29,10 @@ Run `ng test` to execute the unit tests via [Karma].
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor].
-##Link to site \*https://mazimpakar.github.io/Project-Quote/
 
 #### A website that allows the user to add quotes,upvote,downvote using Angular CLI on 29 January 2019
+
+## Link site: https://mazimpakar.github.io/Quotes/
 
 #### By **Mazimpaka M.Rose**
 
