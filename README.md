@@ -43,6 +43,6 @@ e-mail:rosemazimpaka2@gmail.com
 phone number :0786950337
 whtapp number :0786950337
 
-## licence
+## Licence
 
 - MIT License Copyright (c)2019 Mazimpaka M.Rose
