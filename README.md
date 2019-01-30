@@ -4,7 +4,11 @@ Quotes
 
 ## description
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.allow the user to add quotes ,upvote and downvote the quotes.
+Quotes: a web application that gathers quotes from various individuals past and present.
+
+Visitors to the site are encourage to post their favourite quotes by historical and/or present figures. This is then made visible to others who can either upvote or downvote
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Author's Name
 
@@ -58,4 +62,4 @@ copyright (c) 2019[Mazimpaka M.Rose]
 
 ## Licence
 
--This software mazimpakar/Quotes is licensed under the MIT License
+This software mazimpakar/Quotes is licensed under the MIT License
