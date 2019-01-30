@@ -47,4 +47,4 @@ copyright (c) 2019[Mazimpaka M.Rose]
 
 ## Licence
 
-- MIT License Copyright (c)2019 Mazimpaka M.Rose
+-This software mazimpakar/Quotes is licensed under the MIT License
