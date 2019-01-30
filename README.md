@@ -32,6 +32,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor].
 
 #### A website that allows the user to add quotes,upvote,downvote using Angular CLI on 29 January 2019
 
+## Deployment
+
+Enter the link(https://mazimpakar.github.io/Quotes/ into the url interface and click the prompt.
+
 ## Link site: https://mazimpakar.github.io/Quotes/
 
 #### By **Mazimpaka M.Rose**
