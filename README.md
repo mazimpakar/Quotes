@@ -2,7 +2,7 @@
 
 Quotes
 
-## description
+## Description
 
 Quotes: a web application that gathers quotes from various individuals past and present.
 
@@ -29,6 +29,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma].
+
+## BDD
+
+Quotes: This application, user can post their quotes ,can votes for the current quotes and can delete some quotes he/she don't want
 
 ## Running end-to-end tests
 
