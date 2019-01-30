@@ -52,7 +52,8 @@ phone number :0786950337,
 
 whtapp number :0786950337
 
-##Copyright
+## Copyright
+
 copyright (c) 2019[Mazimpaka M.Rose]
 
 ## Licence
