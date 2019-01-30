@@ -42,6 +42,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 e-mail:rosemazimpaka2@gmail.com
 phone number :0786950337
 whtapp number :0786950337
+##Copyright
+copyright (c) 2019[Mazimpaka M.Rose]
 
 ## Licence
 
