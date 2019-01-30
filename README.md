@@ -40,12 +40,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor].
 
 ## Technologies Used
 
-HTML
-CSS
-Bootstrap
-JavaScript/Typescript
-jQuery
-Github
+HTML,
+
+CSS,
+
+Bootstrap,
+
+JavaScript/Typescript,
+
+jQuery,
+
+Github,
+
 Angular Cli
 
 #### A website that allows the user to add quotes,upvote,downvote using Angular CLI on 29 January 2019
